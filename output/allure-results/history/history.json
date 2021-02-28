@@ -1,0 +1,3579 @@
+{
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Check boards menu]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "9ad99a7e0576cd07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500454100,
+        "stop" : 1614500456371,
+        "duration" : 2271
+      }
+    }, {
+      "uid" : "7d90e1a419db4a8a",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [By.xpath(//button[@data-test-id='header-member-menu-button']]",
+      "time" : {
+        "start" : 1614500377414,
+        "stop" : 1614500377427,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "6872e65c14e4eeb9",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [By.xpath(//button[@data-test-id='header-member-menu-button]",
+      "time" : {
+        "start" : 1614500250697,
+        "stop" : 1614500250709,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "62279c7ae0c7542c",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614499553283,
+        "stop" : 1614499555691,
+        "duration" : 2408
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Open Trello]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "636d0191ecc9905b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614493199486,
+        "stop" : 1614493208881,
+        "duration" : 9395
+      }
+    }, {
+      "uid" : "5932b593079ed0ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614493134014,
+        "stop" : 1614493141369,
+        "duration" : 7355
+      }
+    }, {
+      "uid" : "d99217f349669f33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613913723440,
+        "stop" : 1613913730394,
+        "duration" : 6954
+      }
+    }, {
+      "uid" : "95f55a037d65aead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613902725985,
+        "stop" : 1613902734246,
+        "duration" : 8261
+      }
+    }, {
+      "uid" : "9ed0caa50e914d4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613902287417,
+        "stop" : 1613902296927,
+        "duration" : 9510
+      }
+    }, {
+      "uid" : "c08393904da3305d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613898181534,
+        "stop" : 1613898188409,
+        "duration" : 6875
+      }
+    }, {
+      "uid" : "8b50dfec580ea929",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613898094300,
+        "stop" : 1613898102681,
+        "duration" : 8381
+      }
+    }, {
+      "uid" : "13c4a26cd372ce8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613897662351,
+        "stop" : 1613897668817,
+        "duration" : 6466
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: visual check boards menu]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3899de82ebc0534",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614496355556,
+        "stop" : 1614496357501,
+        "duration" : 1945
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Search for item]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e7d5210a455285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613815252449,
+        "stop" : 1613815252450,
+        "duration" : 1
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check header]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "cb5a83f4c0f41cd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937090098,
+        "stop" : 1613937091183,
+        "duration" : 1085
+      }
+    }, {
+      "uid" : "3c5e38239b76092c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936780845,
+        "stop" : 1613936781919,
+        "duration" : 1074
+      }
+    }, {
+      "uid" : "77fca89fab49c506",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936339212,
+        "stop" : 1613936340306,
+        "duration" : 1094
+      }
+    }, {
+      "uid" : "8711461a50b75384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936096279,
+        "stop" : 1613936097364,
+        "duration" : 1085
+      }
+    }, {
+      "uid" : "aa116b27e22acc8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935658241,
+        "stop" : 1613935659349,
+        "duration" : 1108
+      }
+    }, {
+      "uid" : "56d37cadf6ecaa0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935190732,
+        "stop" : 1613935191875,
+        "duration" : 1143
+      }
+    }, {
+      "uid" : "273319399f6134aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935030595,
+        "stop" : 1613935031725,
+        "duration" : 1130
+      }
+    }, {
+      "uid" : "c9dfb969179eb00f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934793914,
+        "stop" : 1613934795013,
+        "duration" : 1099
+      }
+    }, {
+      "uid" : "bd3d01452a51b203",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934328419,
+        "stop" : 1613934330877,
+        "duration" : 2458
+      }
+    }, {
+      "uid" : "77a1962d37d15c98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934138307,
+        "stop" : 1613934140761,
+        "duration" : 2454
+      }
+    }, {
+      "uid" : "bf572a8e5e86b01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933946390,
+        "stop" : 1613933948866,
+        "duration" : 2476
+      }
+    }, {
+      "uid" : "e03dcd40d0861d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933627933,
+        "stop" : 1613933630391,
+        "duration" : 2458
+      }
+    }, {
+      "uid" : "1b1568c78c16b8a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933384768,
+        "stop" : 1613933387218,
+        "duration" : 2450
+      }
+    }, {
+      "uid" : "a5c9af570919a108",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933225436,
+        "stop" : 1613933227895,
+        "duration" : 2459
+      }
+    }, {
+      "uid" : "fadd15c9ec96b43a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933088190,
+        "stop" : 1613933090622,
+        "duration" : 2432
+      }
+    }, {
+      "uid" : "cc5e00d046ea7ea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927861366,
+        "stop" : 1613927863803,
+        "duration" : 2437
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: Login with registered user]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "80accd8a9df21364",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613915051587,
+        "stop" : 1613915059212,
+        "duration" : 7625
+      }
+    }, {
+      "uid" : "b48add352029867f",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613913776170,
+        "stop" : 1613913783826,
+        "duration" : 7656
+      }
+    }, {
+      "uid" : "b3e11ba91f584072",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613911718108,
+        "stop" : 1613911726354,
+        "duration" : 8246
+      }
+    }, {
+      "uid" : "1e79ab8344b511a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613905521418,
+        "stop" : 1613905530350,
+        "duration" : 8932
+      }
+    }, {
+      "uid" : "fc1259152d04ca0c",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613905244066,
+        "stop" : 1613905247762,
+        "duration" : 3696
+      }
+    }, {
+      "uid" : "3af77efe689e2447",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@id='login-submit']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613904977863,
+        "stop" : 1613904985038,
+        "duration" : 7175
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/web/VisualTests.story][scenario: Open google search main page]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "397a6ff398c2ba25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613754269948,
+        "stop" : 1613754271798,
+        "duration" : 1850
+      }
+    }, {
+      "uid" : "8b960b121cccf280",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613750710500,
+        "stop" : 1613750712459,
+        "duration" : 1959
+      }
+    }, {
+      "uid" : "ca61a3290f6fdf16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613678997427,
+        "stop" : 1613678999380,
+        "duration" : 1953
+      }
+    }, {
+      "uid" : "c6e07ccbbc66ad8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613678915391,
+        "stop" : 1613678917380,
+        "duration" : 1989
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check boards menu]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c84b97e19bf2af27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937094779,
+        "stop" : 1613937096682,
+        "duration" : 1903
+      }
+    }, {
+      "uid" : "88d687f7f4424425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936785473,
+        "stop" : 1613936787351,
+        "duration" : 1878
+      }
+    }, {
+      "uid" : "b93f3784ebf42757",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936343974,
+        "stop" : 1613936345850,
+        "duration" : 1876
+      }
+    }, {
+      "uid" : "43edb987309d4e3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936100980,
+        "stop" : 1613936102899,
+        "duration" : 1919
+      }
+    }, {
+      "uid" : "cc8ae4e0037deafc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935663209,
+        "stop" : 1613935666051,
+        "duration" : 2842
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Check cart]" : {
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "deb34a328e5ec728",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1614492608530,
+        "stop" : 1614492616356,
+        "duration" : 7826
+      }
+    }, {
+      "uid" : "803225f316384e55",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1614492415885,
+        "stop" : 1614492419687,
+        "duration" : 3802
+      }
+    }, {
+      "uid" : "34004c2574bf7539",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@href='/cart']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1614492024729,
+        "stop" : 1614492028562,
+        "duration" : 3833
+      }
+    }, {
+      "uid" : "ed5c78a67237eceb",
+      "status" : "failed",
+      "statusDetails" : "1) Unable to locate elements, because search context is not set\r\n2) Unable to locate elements, because search context is not set",
+      "time" : {
+        "start" : 1614491963999,
+        "stop" : 1614491964013,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "abe59202b19ad4db",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613820123166,
+        "stop" : 1613820127209,
+        "duration" : 4043
+      }
+    }, {
+      "uid" : "f621832724b0e62d",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.50.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60468}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ce828dfd0487fff080d99fcd42d760c4\n*** Element info: {Using=xpath, value=//*[normalize-space(@href)='/cart']}",
+      "time" : {
+        "start" : 1613820104747,
+        "stop" : 1613820116790,
+        "duration" : 12043
+      }
+    }, {
+      "uid" : "e16734195b618a5f",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@href='/cart']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613819924920,
+        "stop" : 1613819929555,
+        "duration" : 4635
+      }
+    }, {
+      "uid" : "d8e317c1ec9c381c",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@href='/cart']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613819844268,
+        "stop" : 1613819848083,
+        "duration" : 3815
+      }
+    }, {
+      "uid" : "a59771e6d7afa180",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613819724329,
+        "stop" : 1613819751074,
+        "duration" : 26745
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Dismiss cookies]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ccdea08dd5d509d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503098422,
+        "stop" : 1614503098524,
+        "duration" : 102
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/web/GoogleSearch.story][scenario: Search validation]" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "b3f5b0895808f3b6",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <2>]",
+      "time" : {
+        "start" : 1613754261739,
+        "stop" : 1613754269209,
+        "duration" : 7470
+      }
+    }, {
+      "uid" : "dc5a66397ccc906d",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <2>]",
+      "time" : {
+        "start" : 1613750702732,
+        "stop" : 1613750709740,
+        "duration" : 7008
+      }
+    }, {
+      "uid" : "98621fb75ac85b5",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes Button name: 'btnK'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <2>]\r\n2) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613678993436,
+        "stop" : 1613678996633,
+        "duration" : 3197
+      }
+    }, {
+      "uid" : "f31d58739e9bcab7",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <2>]",
+      "time" : {
+        "start" : 1613678907107,
+        "stop" : 1613678914632,
+        "duration" : 7525
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story > story/webhw2/trello2.precondition.story][scenario: Open Trello]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 33,
+      "unknown" : 0,
+      "total" : 33
+    },
+    "items" : [ {
+      "uid" : "a811e6d30af9d62f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937048078,
+        "stop" : 1613937056161,
+        "duration" : 8083
+      }
+    }, {
+      "uid" : "198b3316946523e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936737604,
+        "stop" : 1613936745021,
+        "duration" : 7417
+      }
+    }, {
+      "uid" : "8d59a6e8569c6239",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936298758,
+        "stop" : 1613936305955,
+        "duration" : 7197
+      }
+    }, {
+      "uid" : "445cc718f064a068",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936054650,
+        "stop" : 1613936062280,
+        "duration" : 7630
+      }
+    }, {
+      "uid" : "4b066aaa2f86c029",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935616499,
+        "stop" : 1613935624279,
+        "duration" : 7780
+      }
+    }, {
+      "uid" : "91f753083ef73fd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935147434,
+        "stop" : 1613935155551,
+        "duration" : 8117
+      }
+    }, {
+      "uid" : "1152f0f90de431f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934989246,
+        "stop" : 1613934997115,
+        "duration" : 7869
+      }
+    }, {
+      "uid" : "7b04c36939517ca0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934753792,
+        "stop" : 1613934761220,
+        "duration" : 7428
+      }
+    }, {
+      "uid" : "961f9392b2fb0321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934289325,
+        "stop" : 1613934298017,
+        "duration" : 8692
+      }
+    }, {
+      "uid" : "8466d1b7af34a6c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934097587,
+        "stop" : 1613934104794,
+        "duration" : 7207
+      }
+    }, {
+      "uid" : "e0d1a73a9e573601",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933903194,
+        "stop" : 1613933914993,
+        "duration" : 11799
+      }
+    }, {
+      "uid" : "ad2e06b6d53fea41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933862790,
+        "stop" : 1613933870193,
+        "duration" : 7403
+      }
+    }, {
+      "uid" : "80c7fdafa643ee77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933587809,
+        "stop" : 1613933595222,
+        "duration" : 7413
+      }
+    }, {
+      "uid" : "17b77b6b7509d869",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933343281,
+        "stop" : 1613933352601,
+        "duration" : 9320
+      }
+    }, {
+      "uid" : "9d2884d036a3e76d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933171047,
+        "stop" : 1613933178590,
+        "duration" : 7543
+      }
+    }, {
+      "uid" : "322e87d560f4d89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933047859,
+        "stop" : 1613933056050,
+        "duration" : 8191
+      }
+    }, {
+      "uid" : "bf8b74ac1048696e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927822705,
+        "stop" : 1613927829560,
+        "duration" : 6855
+      }
+    }, {
+      "uid" : "778ef0c333e6b3b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927252985,
+        "stop" : 1613927260437,
+        "duration" : 7452
+      }
+    }, {
+      "uid" : "84cc14cfac4a2e4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927074472,
+        "stop" : 1613927081375,
+        "duration" : 6903
+      }
+    }, {
+      "uid" : "234affb671f99107",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613925454803,
+        "stop" : 1613925463673,
+        "duration" : 8870
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Create Trello board using API]" : {
+    "statistic" : {
+      "failed" : 7,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "8f235ed33d07daa5",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <400> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoardSuicideSquad\" Actual: was \"invalid value for name\"]",
+      "time" : {
+        "start" : 1614493231337,
+        "stop" : 1614493232624,
+        "duration" : 1287
+      }
+    }, {
+      "uid" : "7408bbcc9ee834da",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <400> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoardSuicideSquad\" Actual: was \"invalid value for name\"]",
+      "time" : {
+        "start" : 1613913740396,
+        "stop" : 1613913741461,
+        "duration" : 1065
+      }
+    }, {
+      "uid" : "8784954910487c68",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613902756328,
+        "stop" : 1613902757389,
+        "duration" : 1061
+      }
+    }, {
+      "uid" : "6fb0d54844287bb8",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613902701142,
+        "stop" : 1613902726073,
+        "duration" : 24931
+      }
+    }, {
+      "uid" : "155a087f3b673100",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613902315143,
+        "stop" : 1613902316275,
+        "duration" : 1132
+      }
+    }, {
+      "uid" : "c5d42b47a11ff68f",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613902195752,
+        "stop" : 1613902196856,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "32a6b263cc36e995",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613902053058,
+        "stop" : 1613902054136,
+        "duration" : 1078
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Verify user is logged in]" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "3662057f12a70e35",
+      "status" : "failed",
+      "statusDetails" : "1) Wait with timeout of 1 minute. Condition: visibility of element with search attributes: XPath: '//span[@class=\"_3jloUsx0g9Z36M\"]'; Visibility: VISIBLE;. Error: Expected condition failed: waiting for visibility of element with search attributes: XPath: '//span[@class=\"_3jloUsx0g9Z36M\"]'; Visibility: VISIBLE; (tried for 60 second(s) with 2000 milliseconds interval)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1614503106109,
+        "stop" : 1614503168079,
+        "duration" : 61970
+      }
+    }, {
+      "uid" : "21151716bdc7ae9",
+      "status" : "failed",
+      "statusDetails" : "1) Wait with timeout of 1 minute. Condition: visibility of element with search attributes: XPath: '//span[@class=\"_3jloUsx0g9Z36M\"]'; Visibility: VISIBLE;. Error: Expected condition failed: waiting for visibility of element with search attributes: XPath: '//span[@class=\"_3jloUsx0g9Z36M\"]'; Visibility: VISIBLE; (tried for 60 second(s) with 2000 milliseconds interval)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1614502218008,
+        "stop" : 1614502281764,
+        "duration" : 63756
+      }
+    }, {
+      "uid" : "4e9a3d1e6479c278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500431959,
+        "stop" : 1614500454097,
+        "duration" : 22138
+      }
+    }, {
+      "uid" : "fddbbef1cf2f5497",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500354666,
+        "stop" : 1614500377412,
+        "duration" : 22746
+      }
+    }, {
+      "uid" : "401d5b2dea729d56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500228938,
+        "stop" : 1614500250694,
+        "duration" : 21756
+      }
+    }, {
+      "uid" : "29527b13ddb32bb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614499531038,
+        "stop" : 1614499553281,
+        "duration" : 22243
+      }
+    }, {
+      "uid" : "38e36bae2d9220cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498347946,
+        "stop" : 1614498369697,
+        "duration" : 21751
+      }
+    }, {
+      "uid" : "9e47a3848a0ef3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498088115,
+        "stop" : 1614498110912,
+        "duration" : 22797
+      }
+    }, {
+      "uid" : "b85ba41ddf3e301b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614497915304,
+        "stop" : 1614497936785,
+        "duration" : 21481
+      }
+    }, {
+      "uid" : "6dc6bd5cd5e452d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614496322516,
+        "stop" : 1614496347044,
+        "duration" : 24528
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Choose Free subscription]" : {
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "5998f9d51dbe9277",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-start-free-account']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614493226362,
+        "stop" : 1614493228878,
+        "duration" : 2516
+      }
+    }, {
+      "uid" : "f5fb50923d933221",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 893d1a5f546f19f8333adc3e5a7dfbd1\n*** Element info: {Using=xpath, value=//button[normalize-space(@data-test-id)='moonshot-start-free-account']}",
+      "time" : {
+        "start" : 1613913740368,
+        "stop" : 1613913740377,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "e6742a7b6f941dc3",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-start-free-account']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902751789,
+        "stop" : 1613902753989,
+        "duration" : 2200
+      }
+    }, {
+      "uid" : "801771b99cf574b9",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-start-free-account']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902311121,
+        "stop" : 1613902313135,
+        "duration" : 2014
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Open main page]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 13
+    },
+    "items" : [ {
+      "uid" : "851bc67dee1c9e5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613820104364,
+        "stop" : 1613820115418,
+        "duration" : 11054
+      }
+    }, {
+      "uid" : "c70c2545e031c1f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613820104364,
+        "stop" : 1613820115418,
+        "duration" : 11054
+      }
+    }, {
+      "uid" : "2932fd199396ebc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613819903051,
+        "stop" : 1613819912273,
+        "duration" : 9222
+      }
+    }, {
+      "uid" : "3f938c29cea15e99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613819819409,
+        "stop" : 1613819830631,
+        "duration" : 11222
+      }
+    }, {
+      "uid" : "41f048a74c00e556",
+      "status" : "broken",
+      "statusDetails" : "timeout: Timed out receiving message from renderer: 60.000\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '10.240.70.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53491}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f2f62704b77e706c8f18581bebe95e3a",
+      "time" : {
+        "start" : 1613819486906,
+        "stop" : 1613819614821,
+        "duration" : 127915
+      }
+    }, {
+      "uid" : "7217b7b894cc066f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613815229081,
+        "stop" : 1613815243753,
+        "duration" : 14672
+      }
+    }, {
+      "uid" : "22990129a259429d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613814677290,
+        "stop" : 1613814689780,
+        "duration" : 12490
+      }
+    }, {
+      "uid" : "cc94a35fbe549ece",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613814284816,
+        "stop" : 1613814297238,
+        "duration" : 12422
+      }
+    }, {
+      "uid" : "2115cd8e91fd37f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613814095132,
+        "stop" : 1613814110059,
+        "duration" : 14927
+      }
+    }, {
+      "uid" : "9991ec596ec59912",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613813993874,
+        "stop" : 1613814009065,
+        "duration" : 15191
+      }
+    }, {
+      "uid" : "eb65710ecf943afa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613813896096,
+        "stop" : 1613813928170,
+        "duration" : 32074
+      }
+    }, {
+      "uid" : "b3c6fbc36e1338e7",
+      "status" : "failed",
+      "statusDetails" : "1) Page title [Expected: a string containing \"Walmart.com\" Actual: was \"Verify your identity\"]",
+      "time" : {
+        "start" : 1613813824145,
+        "stop" : 1613813831507,
+        "duration" : 7362
+      }
+    }, {
+      "uid" : "f11a5d068f24d0a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613811719542,
+        "stop" : 1613811728217,
+        "duration" : 8675
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: Create Trello board using API]" : {
+    "statistic" : {
+      "failed" : 19,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 20
+    },
+    "items" : [ {
+      "uid" : "b2f88b6ca24a06a4",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <400> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid value for name\"]",
+      "time" : {
+        "start" : 1613911726358,
+        "stop" : 1613911728312,
+        "duration" : 1954
+      }
+    }, {
+      "uid" : "981ab737265392fd",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613911425353,
+        "stop" : 1613911427536,
+        "duration" : 2183
+      }
+    }, {
+      "uid" : "daa388bced8a8f1",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613911384561,
+        "stop" : 1613911386870,
+        "duration" : 2309
+      }
+    }, {
+      "uid" : "8422e192f7bd2fd6",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909403892,
+        "stop" : 1613909405072,
+        "duration" : 1180
+      }
+    }, {
+      "uid" : "8675d2e3e88ee959",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909333991,
+        "stop" : 1613909335168,
+        "duration" : 1177
+      }
+    }, {
+      "uid" : "cd7cd2063de41e2e",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909305880,
+        "stop" : 1613909307121,
+        "duration" : 1241
+      }
+    }, {
+      "uid" : "ae6b871655c9f590",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909272642,
+        "stop" : 1613909274325,
+        "duration" : 1683
+      }
+    }, {
+      "uid" : "ca20ebffafcfb47d",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909142556,
+        "stop" : 1613909143889,
+        "duration" : 1333
+      }
+    }, {
+      "uid" : "117542bf8808c907",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613909071255,
+        "stop" : 1613909072451,
+        "duration" : 1196
+      }
+    }, {
+      "uid" : "b4f0b50375c8c024",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613908881862,
+        "stop" : 1613908883004,
+        "duration" : 1142
+      }
+    }, {
+      "uid" : "36cd42f5f3284aea",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613908856928,
+        "stop" : 1613908858085,
+        "duration" : 1157
+      }
+    }, {
+      "uid" : "bea626322ecc7251",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613908478953,
+        "stop" : 1613908480078,
+        "duration" : 1125
+      }
+    }, {
+      "uid" : "6d08c380fcf2e85a",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613908385270,
+        "stop" : 1613908386393,
+        "duration" : 1123
+      }
+    }, {
+      "uid" : "8cac9c5363f33752",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613908207355,
+        "stop" : 1613908208505,
+        "duration" : 1150
+      }
+    }, {
+      "uid" : "506094a87f958cf9",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613908110376,
+        "stop" : 1613908110432,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "ac751a0638efefc7",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613906396692,
+        "stop" : 1613906399028,
+        "duration" : 2336
+      }
+    }, {
+      "uid" : "6d968349f905e770",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613906057381,
+        "stop" : 1613906058606,
+        "duration" : 1225
+      }
+    }, {
+      "uid" : "8b9e952926e4722f",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613906018151,
+        "stop" : 1613906019386,
+        "duration" : 1235
+      }
+    }, {
+      "uid" : "8814c978fe6710b",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613905966764,
+        "stop" : 1613905968050,
+        "duration" : 1286
+      }
+    }, {
+      "uid" : "6258bfc78c8e9a7e",
+      "status" : "failed",
+      "statusDetails" : "1) HTTP response status code [Expected: a value equal to <200> Actual: <401> was greater than <200>]\r\n2) HTTP response body [Expected: a string containing \"FirstBoard\" Actual: was \"invalid key\"]",
+      "time" : {
+        "start" : 1613905721470,
+        "stop" : 1613905722663,
+        "duration" : 1193
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: ]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d926f74a63d761b",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613811522409,
+        "stop" : 1613811523431,
+        "duration" : 1022
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: Open Trello]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "245f287aeea3aad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613915042401,
+        "stop" : 1613915051573,
+        "duration" : 9172
+      }
+    }, {
+      "uid" : "b6984852b8c60845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613913767943,
+        "stop" : 1613913776156,
+        "duration" : 8213
+      }
+    }, {
+      "uid" : "c7543cdf0f9077a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613911710716,
+        "stop" : 1613911718095,
+        "duration" : 7379
+      }
+    }, {
+      "uid" : "37722a12d48e4d87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613905512596,
+        "stop" : 1613905521403,
+        "duration" : 8807
+      }
+    }, {
+      "uid" : "159729d0c8a3fddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613905236143,
+        "stop" : 1613905244050,
+        "duration" : 7907
+      }
+    }, {
+      "uid" : "bddc6a7b9914b67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613904969710,
+        "stop" : 1613904977844,
+        "duration" : 8134
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.precondition.story][scenario: Verify user]" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e80401876b8fd4d2",
+      "status" : "failed",
+      "statusDetails" : "1) Page has correct URL [Expected: <https://trello.com/siarhei64/boards> Actual: <https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%2F&display=&email=scourgedflesh@gmail.com&errorCode&login_hint=scourgedflesh@gmail.com&restrict=true>]",
+      "time" : {
+        "start" : 1613918137151,
+        "stop" : 1613918153290,
+        "duration" : 16139
+      }
+    }, {
+      "uid" : "9613d604e0c37067",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613916893731,
+        "stop" : 1613916893742,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "24f4737c27f468c",
+      "status" : "failed",
+      "statusDetails" : "1) Element with xpath '//button[@title='Siarhei (siarhei64)']' has existed during '10' seconds [The condition is true]",
+      "time" : {
+        "start" : 1613916831444,
+        "stop" : 1613916846690,
+        "duration" : 15246
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/web/GoogleSearch.story][scenario: Open google search main page]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "7b3f55181d5f3c9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613754257666,
+        "stop" : 1613754261724,
+        "duration" : 4058
+      }
+    }, {
+      "uid" : "e758604d881039d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613750698661,
+        "stop" : 1613750702716,
+        "duration" : 4055
+      }
+    }, {
+      "uid" : "17fd22d71637bab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613678989264,
+        "stop" : 1613678993422,
+        "duration" : 4158
+      }
+    }, {
+      "uid" : "c947174d62ea62fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613678900414,
+        "stop" : 1613678907093,
+        "duration" : 6679
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/web/VisualTests.story][scenario: Visual test of context element]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "cab91c90e63c1f29",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613754274178,
+        "stop" : 1613754275311,
+        "duration" : 1133
+      }
+    }, {
+      "uid" : "509b816211a37d26",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613750714693,
+        "stop" : 1613750715777,
+        "duration" : 1084
+      }
+    }, {
+      "uid" : "b787a8037971aae1",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613679001783,
+        "stop" : 1613679003287,
+        "duration" : 1504
+      }
+    }, {
+      "uid" : "3ae5107260ebf465",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613678919588,
+        "stop" : 1613678921205,
+        "duration" : 1617
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check member menu]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "78298981cde1bf81",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613937087707,
+        "stop" : 1613937090094,
+        "duration" : 2387
+      }
+    }, {
+      "uid" : "3c2b44a1392b0239",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936777589,
+        "stop" : 1613936780841,
+        "duration" : 3252
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Finish account creation]" : {
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "7105cda368463a21",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-success-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614493228881,
+        "stop" : 1614493231333,
+        "duration" : 2452
+      }
+    }, {
+      "uid" : "51624a3ef6d7c324",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 893d1a5f546f19f8333adc3e5a7dfbd1\n*** Element info: {Using=xpath, value=//button[normalize-space(@data-test-id)='moonshot-success-button']}",
+      "time" : {
+        "start" : 1613913740382,
+        "stop" : 1613913740392,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "e0d9bdaf49d48e4e",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-success-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902753994,
+        "stop" : 1613902756321,
+        "duration" : 2327
+      }
+    }, {
+      "uid" : "3ad58f1b9711a7e6",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='moonshot-success-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902313138,
+        "stop" : 1613902315139,
+        "duration" : 2001
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.precondition.story][scenario: Login with registered user]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "b6034497e9b938cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613918129563,
+        "stop" : 1613918137145,
+        "duration" : 7582
+      }
+    }, {
+      "uid" : "1de5983e4b2dc20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916885896,
+        "stop" : 1613916893726,
+        "duration" : 7830
+      }
+    }, {
+      "uid" : "58eb84c2cbad945c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916823704,
+        "stop" : 1613916831438,
+        "duration" : 7734
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check main page]" : {
+    "statistic" : {
+      "failed" : 14,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "items" : [ {
+      "uid" : "3d43883d06983b53",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613936337133,
+        "stop" : 1613936339207,
+        "duration" : 2074
+      }
+    }, {
+      "uid" : "38de508b5b273bbc",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613936094122,
+        "stop" : 1613936096276,
+        "duration" : 2154
+      }
+    }, {
+      "uid" : "96e1a5e6dfdb3934",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613935656339,
+        "stop" : 1613935658236,
+        "duration" : 1897
+      }
+    }, {
+      "uid" : "b7b39a80768687bb",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613935188845,
+        "stop" : 1613935190727,
+        "duration" : 1882
+      }
+    }, {
+      "uid" : "3bf114624cf7ef33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935028952,
+        "stop" : 1613935030590,
+        "duration" : 1638
+      }
+    }, {
+      "uid" : "1db418bc4c5abe61",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613934791932,
+        "stop" : 1613934793910,
+        "duration" : 1978
+      }
+    }, {
+      "uid" : "62ed8b3ca86ebb94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927291978,
+        "stop" : 1613927294196,
+        "duration" : 2218
+      }
+    }, {
+      "uid" : "6ebee8692daffc71",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613927102461,
+        "stop" : 1613927102474,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "b9c5f1bea7def7fa",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613925483749,
+        "stop" : 1613925494934,
+        "duration" : 11185
+      }
+    }, {
+      "uid" : "4b03c025b776b83f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613924799860,
+        "stop" : 1613924826867,
+        "duration" : 27007
+      }
+    }, {
+      "uid" : "3f6c284b6f699de0",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613924592092,
+        "stop" : 1613924619330,
+        "duration" : 27238
+      }
+    }, {
+      "uid" : "ca2baf62b32a011d",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613923924766,
+        "stop" : 1613923950040,
+        "duration" : 25274
+      }
+    }, {
+      "uid" : "e1606f2bf6e60c1f",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613923495693,
+        "stop" : 1613923509135,
+        "duration" : 13442
+      }
+    }, {
+      "uid" : "10e6d89c01c3ec25",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613923401230,
+        "stop" : 1613923403337,
+        "duration" : 2107
+      }
+    }, {
+      "uid" : "3a4c3a6f35433a54",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613922865345,
+        "stop" : 1613922881701,
+        "duration" : 16356
+      }
+    }, {
+      "uid" : "495d8aefbfc62231",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613922144770,
+        "stop" : 1613922161862,
+        "duration" : 17092
+      }
+    }, {
+      "uid" : "cf3a39169eff4373",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613922097027,
+        "stop" : 1613922104661,
+        "duration" : 7634
+      }
+    }, {
+      "uid" : "569a4efef5951df",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613918956424,
+        "stop" : 1613918975057,
+        "duration" : 18633
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: User check pages]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "cd77b06cd93e44ac",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613918563065,
+        "stop" : 1613918565579,
+        "duration" : 2514
+      }
+    }, {
+      "uid" : "d2a9d6e8ff13c308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916707505,
+        "stop" : 1613916707506,
+        "duration" : 1
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: visual check header]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c20e860d5fa6b11",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614496349327,
+        "stop" : 1614496350484,
+        "duration" : 1157
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Check user menu]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "11cd5a2d910a045b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503168889,
+        "stop" : 1614503170954,
+        "duration" : 2065
+      }
+    }, {
+      "uid" : "f7e0c4dfce92cb90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614502281769,
+        "stop" : 1614502283895,
+        "duration" : 2126
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: Verify user]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e3388cf196e451e8",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-test-id='header-member-menu-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) A field with attributes XPath: '//span[contains(text(), 'scourgedflesh@gmail.com')]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613915059218,
+        "stop" : 1613915074208,
+        "duration" : 14990
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Enter teamName and purpose]" : {
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "50cc9fc8a28990a",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@id='moonshotCreateTeam']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//div[@data-test-id='moonshot-team-type-select']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n3) An element with attributes XPath: '//div[text()='Education']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n4) An element with attributes XPath: '//button[@data-test-id='moonshot-continue-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614493216024,
+        "stop" : 1614493226351,
+        "duration" : 10327
+      }
+    }, {
+      "uid" : "3363b49767519280",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 893d1a5f546f19f8333adc3e5a7dfbd1\n*** Element info: {Using=xpath, value=//div[normalize-space(@data-test-id)='moonshot-team-type-select']}",
+      "time" : {
+        "start" : 1613913737720,
+        "stop" : 1613913740360,
+        "duration" : 2640
+      }
+    }, {
+      "uid" : "968fa3e1ebcd8c22",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@id='moonshotCreateTeam']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//div[@data-test-id='moonshot-team-type-select']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n3) An element with attributes XPath: '//div[text()='Education']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n4) An element with attributes XPath: '//button[@data-test-id='moonshot-continue-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902741997,
+        "stop" : 1613902751784,
+        "duration" : 9787
+      }
+    }, {
+      "uid" : "382cc4aaaf673797",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@id='moonshotCreateTeam']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//div[@data-test-id='moonshot-team-type-select']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n3) An element with attributes XPath: '//div[text()='Education']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n4) An element with attributes XPath: '//button[@data-test-id='moonshot-continue-button']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613902302597,
+        "stop" : 1613902311115,
+        "duration" : 8518
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Search for product]" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "38f251584ed3a31a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492602206,
+        "stop" : 1614492607328,
+        "duration" : 5122
+      }
+    }, {
+      "uid" : "72661cefa7d54307",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492407894,
+        "stop" : 1614492414883,
+        "duration" : 6989
+      }
+    }, {
+      "uid" : "6b34e5a227575ad2",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@placeholder='Search Walmart.com']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//button[@aria-label='Perform Search']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614492018558,
+        "stop" : 1614492022784,
+        "duration" : 4226
+      }
+    }, {
+      "uid" : "e6df7cc4d5c63df2",
+      "status" : "failed",
+      "statusDetails" : "1) Unable to locate elements, because search context is not set\r\n2) Unable to locate elements, because search context is not set",
+      "time" : {
+        "start" : 1614491963970,
+        "stop" : 1614491963983,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "3eed3c56cc915d6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613820115444,
+        "stop" : 1613820122053,
+        "duration" : 6609
+      }
+    }, {
+      "uid" : "f5186241391b063b",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@placeholder='Search Walmart.com']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//button[@aria-label='Perform Search']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819918496,
+        "stop" : 1613819922615,
+        "duration" : 4119
+      }
+    }, {
+      "uid" : "128a612ef1dd1781",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@placeholder='Search Walmart.com']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//button[@aria-label='Perform Search']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819837890,
+        "stop" : 1613819842386,
+        "duration" : 4496
+      }
+    }, {
+      "uid" : "5e98257c6a0b2ff9",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@placeholder='Search Walmart.com']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819662920,
+        "stop" : 1613819714274,
+        "duration" : 51354
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check side menu]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "9f83e724cdd898de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937091185,
+        "stop" : 1613937092268,
+        "duration" : 1083
+      }
+    }, {
+      "uid" : "5b19d76a36aa7ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936781921,
+        "stop" : 1613936782992,
+        "duration" : 1071
+      }
+    }, {
+      "uid" : "f0d975cc070d46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936340309,
+        "stop" : 1613936341378,
+        "duration" : 1069
+      }
+    }, {
+      "uid" : "d1dc39b07a828bf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936097367,
+        "stop" : 1613936098449,
+        "duration" : 1082
+      }
+    }, {
+      "uid" : "8a4b8d7e71a68c73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935659351,
+        "stop" : 1613935660395,
+        "duration" : 1044
+      }
+    }, {
+      "uid" : "53582b7d2134f01f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935191877,
+        "stop" : 1613935192950,
+        "duration" : 1073
+      }
+    }, {
+      "uid" : "ab7a0a379343e6c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935031727,
+        "stop" : 1613935032797,
+        "duration" : 1070
+      }
+    }, {
+      "uid" : "5cbb6302c497c5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934795015,
+        "stop" : 1613934796064,
+        "duration" : 1049
+      }
+    }, {
+      "uid" : "c8566ac4c64b3e7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934330880,
+        "stop" : 1613934333041,
+        "duration" : 2161
+      }
+    }, {
+      "uid" : "1dcf8132bdea98e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934140764,
+        "stop" : 1613934142884,
+        "duration" : 2120
+      }
+    }, {
+      "uid" : "296332ff4d39676d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933948868,
+        "stop" : 1613933951047,
+        "duration" : 2179
+      }
+    }, {
+      "uid" : "c94f4aa4792ca999",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933630395,
+        "stop" : 1613933632493,
+        "duration" : 2098
+      }
+    }, {
+      "uid" : "ac09b0d1b940b729",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933387221,
+        "stop" : 1613933389384,
+        "duration" : 2163
+      }
+    }, {
+      "uid" : "1fba0ec2d8ed1bb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933227898,
+        "stop" : 1613933230027,
+        "duration" : 2129
+      }
+    }, {
+      "uid" : "3d0589901cf1bec3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933090626,
+        "stop" : 1613933092727,
+        "duration" : 2101
+      }
+    }, {
+      "uid" : "dcec41f2f4bf2fcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927863805,
+        "stop" : 1613927865933,
+        "duration" : 2128
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story > story/webhw2/trello2.precondition.story][scenario: Verify user]" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 1,
+      "skipped" : 11,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 33
+    },
+    "items" : [ {
+      "uid" : "e6332dde135dbc39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937064720,
+        "stop" : 1613937087702,
+        "duration" : 22982
+      }
+    }, {
+      "uid" : "a49f065e239f10b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936753456,
+        "stop" : 1613936777583,
+        "duration" : 24127
+      }
+    }, {
+      "uid" : "f1aa3438c24853b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936314104,
+        "stop" : 1613936337127,
+        "duration" : 23023
+      }
+    }, {
+      "uid" : "2fe66d6f95750bb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936070438,
+        "stop" : 1613936094117,
+        "duration" : 23679
+      }
+    }, {
+      "uid" : "936bedc9b03a3522",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935633021,
+        "stop" : 1613935656333,
+        "duration" : 23312
+      }
+    }, {
+      "uid" : "445ad96877e686d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935164005,
+        "stop" : 1613935188839,
+        "duration" : 24834
+      }
+    }, {
+      "uid" : "731d4fc44b584b3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935005466,
+        "stop" : 1613935028946,
+        "duration" : 23480
+      }
+    }, {
+      "uid" : "f9f5b97687f91e0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934769276,
+        "stop" : 1613934791925,
+        "duration" : 22649
+      }
+    }, {
+      "uid" : "2fd740d808ee5814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934306294,
+        "stop" : 1613934328412,
+        "duration" : 22118
+      }
+    }, {
+      "uid" : "8226d3fc11607ee6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934113512,
+        "stop" : 1613934138301,
+        "duration" : 24789
+      }
+    }, {
+      "uid" : "9f07000a02e822c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933923316,
+        "stop" : 1613933946383,
+        "duration" : 23067
+      }
+    }, {
+      "uid" : "d170b48b0e8d48b0",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:61103}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 09b67d80ffac5a8b37fc68e0b80314ec\n*** Element info: {Using=xpath, value=//span[normalize-space(@class)=\"_3jloUsx0g9Z36M\"]}",
+      "time" : {
+        "start" : 1613933879481,
+        "stop" : 1613933899594,
+        "duration" : 20113
+      }
+    }, {
+      "uid" : "a11683a3bc3bdb97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933603256,
+        "stop" : 1613933627924,
+        "duration" : 24668
+      }
+    }, {
+      "uid" : "aceabd9ebf0c3a78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933360721,
+        "stop" : 1613933384763,
+        "duration" : 24042
+      }
+    }, {
+      "uid" : "5d7f986ce6a55780",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933187229,
+        "stop" : 1613933225430,
+        "duration" : 38201
+      }
+    }, {
+      "uid" : "6811ca8855ae9c6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933064438,
+        "stop" : 1613933088183,
+        "duration" : 23745
+      }
+    }, {
+      "uid" : "92f7d93260d11795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927837249,
+        "stop" : 1613927861359,
+        "duration" : 24110
+      }
+    }, {
+      "uid" : "cc2600d1dcaf8e2e",
+      "status" : "failed",
+      "statusDetails" : "1) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613927268133,
+        "stop" : 1613927291970,
+        "duration" : 23837
+      }
+    }, {
+      "uid" : "57a70235989210ef",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//div[@title='Siarhei (siarhei64)']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) The number of found elements [Expected: number of elements is a value equal to <1> Actual: <0>]",
+      "time" : {
+        "start" : 1613927088872,
+        "stop" : 1613927102453,
+        "duration" : 13581
+      }
+    }, {
+      "uid" : "da4e8cc8c06af0c6",
+      "status" : "failed",
+      "statusDetails" : "1) Page has correct URL [Expected: <https://trello.com/siarhei64/boards> Actual: <https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%2F&display=&email=scourgedflesh@gmail.com&errorCode&login_hint=scourgedflesh@gmail.com&restrict=true>]",
+      "time" : {
+        "start" : 1613925471286,
+        "stop" : 1613925483741,
+        "duration" : 12455
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/web/VisualTests.story][scenario: Visual test of a page]" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "fc2ad4147d5c5f80",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613754271801,
+        "stop" : 1613754274175,
+        "duration" : 2374
+      }
+    }, {
+      "uid" : "72de06bba3453b8b",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613750712466,
+        "stop" : 1613750714691,
+        "duration" : 2225
+      }
+    }, {
+      "uid" : "2d01eea592078e16",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613678999385,
+        "stop" : 1613679001779,
+        "duration" : 2394
+      }
+    }, {
+      "uid" : "659792cebd2dddab",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613678917384,
+        "stop" : 1613678919585,
+        "duration" : 2201
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: visual check members]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "297c489c74d6017b",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614496351655,
+        "stop" : 1614496355554,
+        "duration" : 3899
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: visual check side menu]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7901fe160c68d2a",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614496350488,
+        "stop" : 1614496351653,
+        "duration" : 1165
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: visual check members]" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "92bdc4ccdfe83edb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937092270,
+        "stop" : 1613937094776,
+        "duration" : 2506
+      }
+    }, {
+      "uid" : "ea6d80c82570cbd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936782996,
+        "stop" : 1613936785471,
+        "duration" : 2475
+      }
+    }, {
+      "uid" : "9c000fddff081014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936341380,
+        "stop" : 1613936343971,
+        "duration" : 2591
+      }
+    }, {
+      "uid" : "95181e8f1524558b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936098451,
+        "stop" : 1613936100977,
+        "duration" : 2526
+      }
+    }, {
+      "uid" : "9fca2390fec7eafb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935660398,
+        "stop" : 1613935663206,
+        "duration" : 2808
+      }
+    }, {
+      "uid" : "211886f0f6e5c636",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935192952,
+        "stop" : 1613935195493,
+        "duration" : 2541
+      }
+    }, {
+      "uid" : "3cbe5b2f22e00545",
+      "status" : "failed",
+      "statusDetails" : "1) Wait with timeout of 0 seconds. Condition: presence of any elements located by By.xpath: //div[normalize-space(@id)='header'. Error: invalid selector: Unable to locate an element with the xpath expression //div[normalize-space(@id)='header' because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[normalize-space(@id)='header'' is not a valid XPath expression.\n  (Session info: chrome=88.0.4324.182)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:52913}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b6e819aad74a8b802315aa7aa6cad430\n*** Element info: {Using=xpath, value=//div[normalize-space(@id)='header'}",
+      "time" : {
+        "start" : 1613935032799,
+        "stop" : 1613935035366,
+        "duration" : 2567
+      }
+    }, {
+      "uid" : "640e94411de659b3",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613934796066,
+        "stop" : 1613934799186,
+        "duration" : 3120
+      }
+    }, {
+      "uid" : "5f19f16cdd85894d",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613934333043,
+        "stop" : 1613934337032,
+        "duration" : 3989
+      }
+    }, {
+      "uid" : "e352d7743bea5c1b",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613934142886,
+        "stop" : 1613934147056,
+        "duration" : 4170
+      }
+    }, {
+      "uid" : "80e8b06b26b49b3b",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1613933951050,
+        "stop" : 1613933954859,
+        "duration" : 3809
+      }
+    }, {
+      "uid" : "cf1aad3960f11b76",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=88.0.4324.182)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60805}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 8e2c53ea0bcc8951ecd55e05b3e901c2",
+      "time" : {
+        "start" : 1613933632495,
+        "stop" : 1613933634758,
+        "duration" : 2263
+      }
+    }, {
+      "uid" : "e9748da6837b8372",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=88.0.4324.182)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.46.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60507}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 3911ffd7f739abff380e04c824e4aee7",
+      "time" : {
+        "start" : 1613933389386,
+        "stop" : 1613933391636,
+        "duration" : 2250
+      }
+    }, {
+      "uid" : "3aeeb513aec458b1",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [By.xpath (//div[@class='tabbed-pane-main-col u-clearfix'])]",
+      "time" : {
+        "start" : 1613933230030,
+        "stop" : 1613933230923,
+        "duration" : 893
+      }
+    }, {
+      "uid" : "9dcaa2f1a258dd26",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [By.xpath (tabbed-pane-main-col u-clearfix)]",
+      "time" : {
+        "start" : 1613933092729,
+        "stop" : 1613933093539,
+        "duration" : 810
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Check info pop-up dismission]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95f2a2b3272dd6e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503168083,
+        "stop" : 1614503168887,
+        "duration" : 804
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: User Sign in with registered account]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 30,
+      "unknown" : 0,
+      "total" : 30
+    },
+    "items" : [ {
+      "uid" : "89a0399cb81b112c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937087704,
+        "stop" : 1613937087705,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "79237c2aa5fba2d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936777586,
+        "stop" : 1613936777587,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ed8fb846a8441724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936337130,
+        "stop" : 1613936337131,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e1666ef1e0a83ac5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936094120,
+        "stop" : 1613936094121,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eb08aa725c0e8b76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935656336,
+        "stop" : 1613935656337,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7e1a2c2e3d81aefc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935188842,
+        "stop" : 1613935188843,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f72f6c99f70a4d4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935028949,
+        "stop" : 1613935028950,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "37d359fb2d03ba99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934791928,
+        "stop" : 1613934791930,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "368943d0686a91e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934328416,
+        "stop" : 1613934328417,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ee191136d202e3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934138304,
+        "stop" : 1613934138305,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "caf1cc398ee23573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933946387,
+        "stop" : 1613933946388,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2aa94601460cedbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933627928,
+        "stop" : 1613933627930,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b5d33975f3af96c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933384766,
+        "stop" : 1613933384767,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "40786db69aa7b060",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933225433,
+        "stop" : 1613933225434,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ee5701d25a013a21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933088186,
+        "stop" : 1613933088187,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7f454a29b9112b1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927861362,
+        "stop" : 1613927861363,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2a5c20e440531b64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927291975,
+        "stop" : 1613927291976,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "235eab89f89e51c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927102457,
+        "stop" : 1613927102459,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a50a3ce5713aa8da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613925483746,
+        "stop" : 1613925483747,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "487219c88b48dcc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613924799857,
+        "stop" : 1613924799858,
+        "duration" : 1
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.precondition.story][scenario: Open Trello]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "fc32db735b34c6fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613918121425,
+        "stop" : 1613918129550,
+        "duration" : 8125
+      }
+    }, {
+      "uid" : "17c53e543f87045f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916878942,
+        "stop" : 1613916885882,
+        "duration" : 6940
+      }
+    }, {
+      "uid" : "2722822ddf1af496",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916816803,
+        "stop" : 1613916823691,
+        "duration" : 6888
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Open Trello]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "e46178180837d684",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503091506,
+        "stop" : 1614503098408,
+        "duration" : 6902
+      }
+    }, {
+      "uid" : "6aaba20defdaa48a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614502202711,
+        "stop" : 1614502210131,
+        "duration" : 7420
+      }
+    }, {
+      "uid" : "7a9c7e9bd5a1a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500417691,
+        "stop" : 1614500424509,
+        "duration" : 6818
+      }
+    }, {
+      "uid" : "c4db0dcfae52c4ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500338859,
+        "stop" : 1614500346242,
+        "duration" : 7383
+      }
+    }, {
+      "uid" : "28bc2b74b9662f6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500213518,
+        "stop" : 1614500221199,
+        "duration" : 7681
+      }
+    }, {
+      "uid" : "85e54acd74abead5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614499514695,
+        "stop" : 1614499522562,
+        "duration" : 7867
+      }
+    }, {
+      "uid" : "93b6a3e27215b3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498331200,
+        "stop" : 1614498338127,
+        "duration" : 6927
+      }
+    }, {
+      "uid" : "ebe652c43650b919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498073341,
+        "stop" : 1614498080482,
+        "duration" : 7141
+      }
+    }, {
+      "uid" : "6c125f58ffccc4c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614497900850,
+        "stop" : 1614497907868,
+        "duration" : 7018
+      }
+    }, {
+      "uid" : "b529129f7875b936",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614496307223,
+        "stop" : 1614496314100,
+        "duration" : 6877
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello1.story][scenario: Sign up [1]]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 1,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "2da7f03016d48965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614493208900,
+        "stop" : 1614493216016,
+        "duration" : 7116
+      }
+    }, {
+      "uid" : "bd2f27729d6cdd22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614493141388,
+        "stop" : 1614493147713,
+        "duration" : 6325
+      }
+    }, {
+      "uid" : "9f4fe88d90dacc1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613913730417,
+        "stop" : 1613913737714,
+        "duration" : 7297
+      }
+    }, {
+      "uid" : "a55f158b19d620b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613902734299,
+        "stop" : 1613902741991,
+        "duration" : 7692
+      }
+    }, {
+      "uid" : "90099e8ea0044372",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613902296949,
+        "stop" : 1613902302592,
+        "duration" : 5643
+      }
+    }, {
+      "uid" : "e7e02504a42dfb53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613898188425,
+        "stop" : 1613898193442,
+        "duration" : 5017
+      }
+    }, {
+      "uid" : "f473d789d0ce9a52",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [//input[@id='displayName']]",
+      "time" : {
+        "start" : 1613898102703,
+        "stop" : 1613898107506,
+        "duration" : 4803
+      }
+    }, {
+      "uid" : "c7c3f02b61946dfb",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613897668835,
+        "stop" : 1613897669053,
+        "duration" : 218
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Open walmart.com]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "d95556e5509cc27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492580368,
+        "stop" : 1614492591425,
+        "duration" : 11057
+      }
+    }, {
+      "uid" : "5d1f54b1d12fd145",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492359932,
+        "stop" : 1614492366719,
+        "duration" : 6787
+      }
+    }, {
+      "uid" : "8aa29927b609f0af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492005893,
+        "stop" : 1614492012173,
+        "duration" : 6280
+      }
+    }, {
+      "uid" : "2b4bcb3137fecd88",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.103.198', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: Backtrace:\n\tGetHandleVerifier [0x0094B963+483]\n\tGetHandleVerifier [0x0094B941+449]\n\tGetHandleVerifier [0x00CF3308+3832712]\n\tGetHandleVerifier [0x00D09FA6+3926054]\n\tGetHandleVerifier [0x00D07D9C+3917340]\n\tGetHandleVerifier [0x00D2E7FE+4075646]\n\tGetHandleVerifier [0x00D2E56C+4074988]\n\tGetHandleVerifier [0x00D2B2EB+4062059]\n\tGetHandleVerifier [0x00D0ED14+3945876]\n\tGetHandleVerifier [0x00D0FBCE+3949646]\n\tGetHandleVerifier [0x00D0FB59+3949529]\n\tOrdinal0 [0x0090B5CC+46540]\n\tOrdinal0 [0x00909F53+40787]\n\tOrdinal0 [0x00909B12+39698]\n\tGetHandleVerifier [0x00C11468+2907368]\n\tGetHandleVerifier [0x00A571EE+1096302]\n\tGetHandleVerifier [0x00A13E8D+821005]\n\tGetHandleVerifier [0x00A1396B+819691]\n\tGetHandleVerifier [0x00A13881+819457]\n\tGetHandleVerifier [0x00A3F463+998627]\n\tBaseThreadInitThunk [0x76FF6359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77E18944+228]\n\tRtlGetAppContainerNamedObjectPath [0x77E18914+180]",
+      "time" : {
+        "start" : 1614491959048,
+        "stop" : 1614491962116,
+        "duration" : 3068
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story][scenario: User Sign in with registered account + account verification]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "905a077323e37c65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916707500,
+        "stop" : 1613916707501,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4a4614893e23db9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613916617925,
+        "stop" : 1613916617942,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "447fac9e1597bef9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613915906875,
+        "stop" : 1613915906876,
+        "duration" : 1
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello2.story > story/webhw2/trello2.precondition.story][scenario: Login with registered user]" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 33
+    },
+    "items" : [ {
+      "uid" : "640065f2c2f9c760",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613937056175,
+        "stop" : 1613937064715,
+        "duration" : 8540
+      }
+    }, {
+      "uid" : "463669dc0fc8dd01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936745040,
+        "stop" : 1613936753450,
+        "duration" : 8410
+      }
+    }, {
+      "uid" : "8a2b8ad06ffe10f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936305969,
+        "stop" : 1613936314100,
+        "duration" : 8131
+      }
+    }, {
+      "uid" : "18abda9d2b83c6bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613936062293,
+        "stop" : 1613936070433,
+        "duration" : 8140
+      }
+    }, {
+      "uid" : "1982a51c53d2f74d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935624292,
+        "stop" : 1613935633016,
+        "duration" : 8724
+      }
+    }, {
+      "uid" : "245d4f26a097a16b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935155564,
+        "stop" : 1613935164001,
+        "duration" : 8437
+      }
+    }, {
+      "uid" : "192e1cf02a804ff6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934997129,
+        "stop" : 1613935005461,
+        "duration" : 8332
+      }
+    }, {
+      "uid" : "904dc450c311d288",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934761234,
+        "stop" : 1613934769271,
+        "duration" : 8037
+      }
+    }, {
+      "uid" : "61f2e9edf58c03a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934298030,
+        "stop" : 1613934306287,
+        "duration" : 8257
+      }
+    }, {
+      "uid" : "e2c77307acca0d62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613934104807,
+        "stop" : 1613934113507,
+        "duration" : 8700
+      }
+    }, {
+      "uid" : "e91faaf0caf292d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933915006,
+        "stop" : 1613933923312,
+        "duration" : 8306
+      }
+    }, {
+      "uid" : "2ea7d8c6729951d6",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//input[@id='password']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613933870206,
+        "stop" : 1613933879475,
+        "duration" : 9269
+      }
+    }, {
+      "uid" : "885c4d84b1a00064",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933595236,
+        "stop" : 1613933603248,
+        "duration" : 8012
+      }
+    }, {
+      "uid" : "894310cd70ab0b0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933352614,
+        "stop" : 1613933360715,
+        "duration" : 8101
+      }
+    }, {
+      "uid" : "3a9a4fb76488e655",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933178604,
+        "stop" : 1613933187225,
+        "duration" : 8621
+      }
+    }, {
+      "uid" : "dff3350385c78390",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613933056065,
+        "stop" : 1613933064433,
+        "duration" : 8368
+      }
+    }, {
+      "uid" : "38ce666b3c100fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927829577,
+        "stop" : 1613927837245,
+        "duration" : 7668
+      }
+    }, {
+      "uid" : "912c2f5a8745806f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927260453,
+        "stop" : 1613927268127,
+        "duration" : 7674
+      }
+    }, {
+      "uid" : "f41b56ac16014e21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613927081388,
+        "stop" : 1613927088866,
+        "duration" : 7478
+      }
+    }, {
+      "uid" : "7962cc2cb33c4783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613925463687,
+        "stop" : 1613925471280,
+        "duration" : 7593
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Add product to cart]" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "2c875c4f502e0719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492607330,
+        "stop" : 1614492608527,
+        "duration" : 1197
+      }
+    }, {
+      "uid" : "c2feaa07a18aca5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492414886,
+        "stop" : 1614492415883,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "4b811f6c45a6f584",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-offer-id='B76518E7E0CC4173A3F871DAE4515039']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614492022790,
+        "stop" : 1614492024725,
+        "duration" : 1935
+      }
+    }, {
+      "uid" : "252907582ac1097c",
+      "status" : "failed",
+      "statusDetails" : "1) Unable to locate elements, because search context is not set",
+      "time" : {
+        "start" : 1614491963987,
+        "stop" : 1614491963996,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "2070a194e52ada58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613820122059,
+        "stop" : 1613820123162,
+        "duration" : 1103
+      }
+    }, {
+      "uid" : "f659e51f14d0ea7f",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=88.0.4324.182)\nBuild info: version: '4.0.0-alpha-1', revision: 'd1d3728cae', time: '2019-04-24T13:42:21'\nSystem info: host: 'EPBYGROW00AB', ip: '100.64.50.148', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\SIARHE~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:60468}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ce828dfd0487fff080d99fcd42d760c4\n*** Element info: {Using=xpath, value=//button[normalize-space(@data-offer-id)='B76518E7E0CC4173A3F871DAE4515039']}",
+      "time" : {
+        "start" : 1613820092663,
+        "stop" : 1613820104741,
+        "duration" : 12078
+      }
+    }, {
+      "uid" : "3b8d3f5138ce7109",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-offer-id='B76518E7E0CC4173A3F871DAE4515039']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819922621,
+        "stop" : 1613819924917,
+        "duration" : 2296
+      }
+    }, {
+      "uid" : "92212e5c4eba6231",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-offer-id='B76518E7E0CC4173A3F871DAE4515039']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819842393,
+        "stop" : 1613819844265,
+        "duration" : 1872
+      }
+    }, {
+      "uid" : "a5236a4acc8693c1",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//button[@data-offer-id='B76518E7E0CC4173A3F871DAE4515039']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613819714278,
+        "stop" : 1613819724326,
+        "duration" : 10048
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: visual check member menu]" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b86bf6d5b0b1dddc",
+      "status" : "failed",
+      "statusDetails" : "1) Visual check passed [The condition is false]",
+      "time" : {
+        "start" : 1614496347047,
+        "stop" : 1614496349321,
+        "duration" : 2274
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw/walmart.story][scenario: Create acc and sign in]" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 1,
+      "skipped" : 3,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "b990912e2fee436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492591451,
+        "stop" : 1614492602199,
+        "duration" : 10748
+      }
+    }, {
+      "uid" : "ad4dcc35b9451a32",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@data-automation-id='signin-sign-up-btn']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n2) An element with attributes XPath: '//input[@id='first-name-su']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n3) An element with attributes XPath: '//input[@id='last-name-su']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n4) An element with attributes XPath: '//input[@id='email-su']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n5) An element with attributes XPath: '//input[@id='password-su']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\r\n6) An element with attributes XPath: '//div[2]/form[2]/button[1]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1614492366734,
+        "stop" : 1614492407880,
+        "duration" : 41146
+      }
+    }, {
+      "uid" : "76d99db302c98dd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614492012188,
+        "stop" : 1614492018551,
+        "duration" : 6363
+      }
+    }, {
+      "uid" : "33a81f21cd19f75a",
+      "status" : "failed",
+      "statusDetails" : "1) Unable to locate elements, because search context is not set\r\n2) Unable to locate elements, because search context is not set\r\n3) Unable to locate elements, because search context is not set\r\n4) Unable to locate elements, because search context is not set\r\n5) Unable to locate elements, because search context is not set\r\n6) Unable to locate elements, because search context is not set\r\n7) Unable to locate elements, because search context is not set\r\n8) Unable to locate elements, because search context is not set",
+      "time" : {
+        "start" : 1614491962140,
+        "stop" : 1614491963962,
+        "duration" : 1822
+      }
+    }, {
+      "uid" : "aab994c2e99d3dbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613819912291,
+        "stop" : 1613819918489,
+        "duration" : 6198
+      }
+    }, {
+      "uid" : "8b1b21bc6810368f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613819830661,
+        "stop" : 1613819837885,
+        "duration" : 7224
+      }
+    }, {
+      "uid" : "f6e1526661457311",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613819614836,
+        "stop" : 1613819662915,
+        "duration" : 48079
+      }
+    }, {
+      "uid" : "bf8123ab330ad070",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613815243771,
+        "stop" : 1613815252444,
+        "duration" : 8673
+      }
+    }, {
+      "uid" : "9f0033046b08f74b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613814689796,
+        "stop" : 1613814696395,
+        "duration" : 6599
+      }
+    }, {
+      "uid" : "a6dd4137f84c5423",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [//input[@id='first-name-su']]",
+      "time" : {
+        "start" : 1613814297253,
+        "stop" : 1613814302739,
+        "duration" : 5486
+      }
+    }, {
+      "uid" : "c10b3da6765fa2dc",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613814110078,
+        "stop" : 1613814111946,
+        "duration" : 1868
+      }
+    }, {
+      "uid" : "315457ae24262f23",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613814009090,
+        "stop" : 1613814011058,
+        "duration" : 1968
+      }
+    }, {
+      "uid" : "c77eba11053655f2",
+      "status" : "skipped",
+      "statusDetails" : "Step is not implemented",
+      "time" : {
+        "start" : 1613813928185,
+        "stop" : 1613813930179,
+        "duration" : 1994
+      }
+    }, {
+      "uid" : "afe94dd7db2cfb00",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id='hf-account-flyout']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613813831522,
+        "stop" : 1613813834748,
+        "duration" : 3226
+      }
+    }, {
+      "uid" : "536a9f6c55a25949",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@data-automation-id='signin-sign-up-btn']'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1613811728231,
+        "stop" : 1613811736119,
+        "duration" : 7888
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: User Sign in with registered account]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "5659c1771aaf696a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503098531,
+        "stop" : 1614503106105,
+        "duration" : 7574
+      }
+    }, {
+      "uid" : "24bbf5cef274a652",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614502210147,
+        "stop" : 1614502218002,
+        "duration" : 7855
+      }
+    }, {
+      "uid" : "36f9179fe7c1ee0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500424522,
+        "stop" : 1614500431953,
+        "duration" : 7431
+      }
+    }, {
+      "uid" : "eb883df52d2cd1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500346260,
+        "stop" : 1614500354661,
+        "duration" : 8401
+      }
+    }, {
+      "uid" : "f59b009c00045f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614500221213,
+        "stop" : 1614500228931,
+        "duration" : 7718
+      }
+    }, {
+      "uid" : "e231909bd8379108",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614499522584,
+        "stop" : 1614499531031,
+        "duration" : 8447
+      }
+    }, {
+      "uid" : "b6adfd50f99fc141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498338141,
+        "stop" : 1614498347941,
+        "duration" : 9800
+      }
+    }, {
+      "uid" : "7a0d52d4a97ef716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614498080495,
+        "stop" : 1614498088110,
+        "duration" : 7615
+      }
+    }, {
+      "uid" : "5af3dc9f98fb12cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614497907882,
+        "stop" : 1614497915299,
+        "duration" : 7417
+      }
+    }, {
+      "uid" : "522fcf3b53910fb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614496314114,
+        "stop" : 1614496322511,
+        "duration" : 8397
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/C:/Users/siarhei_izobau/vividus-starter2/bin/main/story/webhw2/trello3.story][scenario: Check navigation through boards]" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8533a2ba66cf1153",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n2) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n3) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n4) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n5) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n6) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]",
+      "time" : {
+        "start" : 1614498369699,
+        "stop" : 1614498377261,
+        "duration" : 7562
+      }
+    }, {
+      "uid" : "9b15f920d57ac223",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n2) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n3) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n4) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n5) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]\r\n6) An element with attributes XPath: '//div[@class='board-tile-details is-badged']'; Visibility: VISIBLE; [Expected: number of elements is a value equal to <1> Actual: <5>]",
+      "time" : {
+        "start" : 1614498110915,
+        "stop" : 1614498118535,
+        "duration" : 7620
+      }
+    }, {
+      "uid" : "fba7d3a66492fa64",
+      "status" : "broken",
+      "statusDetails" : "Invalid locator format. Expected matches [(?:By\\.)?([a-zA-Z]+)\\((.+?)\\):?([a-zA-Z]*)?] Actual: [`By.xpath(//li[@class='boards-page-board-section-list-item'])`]",
+      "time" : {
+        "start" : 1614497936788,
+        "stop" : 1614497936803,
+        "duration" : 15
+      }
+    } ]
+  }
+}
