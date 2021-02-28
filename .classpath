@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/"/>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus/0.3.0/318f2337be9ef050300829d6f5ceada82c84d8de/vividus-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus/0.3.0/b25a873f5bd41df916f8a39f76076a370c6b47f6/vividus-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-web-app/0.3.0/c989d83b504de6d8692f85978742350fb379c59e/vividus-plugin-web-app-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-web-app/0.3.0/330961023d0f85e88f04e5f708bc2659b6b946e4/vividus-plugin-web-app-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-rest-api/0.3.0/d269bf49062c9a768cfbcf70a2f5da1d5855dfeb/vividus-plugin-rest-api-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-rest-api/0.3.0/7c1a401d8b0baed6db02d1be6b88cb29bd251aed/vividus-plugin-rest-api-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-db/0.3.0/95d70e9ef48bc3c87bfc523de282b06097298788/vividus-plugin-db-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-db/0.3.0/729f88ea9e16282d8fec97227b97c27714a45e6f/vividus-plugin-db-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-visual/0.3.0/b49b66300b84b550945540c60c21a6d772f2914d/vividus-plugin-visual-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-visual/0.3.0/35436e9c822c5dee5dec509cf8af0e83220bf4d5/vividus-plugin-visual-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.2.18/f03205de8be7a1a71dccdc985f436d3461cf1960/postgresql-42.2.18-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.2.18/a0a9c1d43c7727eeaf1b729477891185d3c71751/postgresql-42.2.18.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-bdd-engine/0.3.0/92fdd2aa74da01072c2b6a921a473f31e6e2b281/vividus-bdd-engine-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-bdd-engine/0.3.0/d6c13ea4747f813dee12fcd921e599db7127d6d/vividus-bdd-engine-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-http-client/0.3.0/3c0a57aa16b9c33bfa088cfaa1ceeb467ceda632/vividus-http-client-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-http-client/0.3.0/2533aa2a4d1abf7d1d43978909ac66452d903635/vividus-http-client-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-reporter/0.3.0/5c8546bc1db888e87b9f3bf6795cce10ec2577cb/vividus-reporter-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-reporter/0.3.0/f6be90e2dda35dc985b29c014bb817edc32b09d0/vividus-reporter-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.ashot/ashot/1.5.4/9252b184daa8be7199377f45ad0946c4192e0c9f/ashot-1.5.4-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.ashot/ashot/1.5.4/630e052b98de4f4f82c2d16d803d7b30f468853d/ashot-1.5.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.crawler-commons/crawler-commons/1.1/b90b0533e115c91de995c221ed655474ef444963/crawler-commons-1.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.crawler-commons/crawler-commons/1.1/97b7552d8892a0ae21c706b46d328d6ba52a3553/crawler-commons-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/edu.uci.ics/crawler4j/4.4.0/f9b55658564d4a54be1bb3aa8337a6173f72d1a2/crawler4j-4.4.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/edu.uci.ics/crawler4j/4.4.0/20f7a9a8eb6e56eb792f1bae9dc3c3834ea15ad3/crawler4j-4.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-test-context/0.3.0/111fb12e077ec318f7cd2fbd34a0de3695870a5f/vividus-test-context-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-test-context/0.3.0/c5cd8cdde29464ce556894d48031af064083be68/vividus-test-context-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-core/4.9.0-alpha/c9795e9ba4300dc6c3dac9520077a21dc24ab67a/jbehave-core-4.9.0-alpha-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-core/4.9.0-alpha/3cbc15e170dfaaae6df8a532f7b7d6c6aa4738a3/jbehave-core-4.9.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/9654e91a61d7662c36be6710ef8e720c0e3f9807/httpclient-4.5.13-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parsers/1.16/541369f1db10c1df83d0e26693639b5f3b851c9f/tika-parsers-1.16-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parsers/1.16/bececafbe32c013eae8d3f3cf10d28b136a6f9d7/tika-parsers-1.16.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/523bdce923a13622132b263550d06519fc591ec4/junit-4.13.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.1/cdd00374f1fee76b11e2a9d127405aa3f6be5b6a/junit-4.13.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/5.0.84/5621a1e53fbde4b075b8e7e5cec98ca08a4e12fe/je-5.0.84-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.sleepycat/je/5.0.84/7109e7b4b320c9f5824fc338b5e7848cb6fba1c4/je-5.0.84.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.1.0/d4062783613c4c6cf909c939d15fd1f2b584db03/plexus-utils-3.1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.1.0/60eecb6f15abdb1c653ad80abaac6fe188b3feaa/plexus-utils-3.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/8f3421a8203053a6ab4b74f76a0550d21eee8cfe/paranamer-2.8-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/619eba74c19ccf1da8ebec97a2d7f8ba05773dd6/paranamer-2.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.14/f6eab1356941635d374c6ac26741c72d94e34346/xstream-1.4.14-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.thoughtworks.xstream/xstream/1.4.14/205696d5c42809abca64f4d3df47d95c2b3af7b4/xstream-1.4.14.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/d6e6365dac44108fb2cc0684daea0d40bc6609f5/httpcore-4.4.13-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/853b96d3afbb7bf8cc303fe27ee96836a10c1834/httpcore-4.4.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-dom/0.8.1/1817da34b6384d59de53b3a7d4be34043b684396/apache-mime4j-dom-0.8.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-dom/0.8.1/f2d653c617004193f3350330d907f77b60c88c56/apache-mime4j-dom-0.8.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-core/0.8.1/440f21c0174b4df00767aa7ab014933da8d6d37c/apache-mime4j-core-0.8.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-core/0.8.1/c62dfe18a3b827a2c626ade0ffba44562ddf3f61/apache-mime4j-core-0.8.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/31cbf81bece906e382034d2b04e2e5c47e864c17/tagsoup-1.2.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/5584627487e984c03456266d3f8802eb85a9ce97/tagsoup-1.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/xmlpull/xmlpull/1.1.3.1/2b8e230d2ab644e4ecaa94db7cdedbc40c805dfa/xmlpull-1.1.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/xpp3/xpp3_min/1.1.4c/fffe25ec1f20ec1cfdc0edd41c6e0d55bc0dbaf5/xpp3_min-1.1.4c-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/xpp3/xpp3_min/1.1.4c/19d4e90b43059058f6e056f794f0ea4030d60b86/xpp3_min-1.1.4c.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-visual-testing/0.3.0/2da84493e582ac374b67c68abe818a42f644a2aa/vividus-extension-visual-testing-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-visual-testing/0.3.0/4be10ec7c389b0033e631018823912d268e6a817/vividus-extension-visual-testing-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-allure-adaptor/0.3.0/c77ea4bfc723f48aae186698929fb41b13d90df6/vividus-allure-adaptor-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-allure-adaptor/0.3.0/90707e8fae770f14381e7d2381aa027e3a1a90a1/vividus-allure-adaptor-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-analytics/0.3.0/293d12ba8b765c1e3a329631ee53f0d3e637ddb/vividus-analytics-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-analytics/0.3.0/2d2576ec616cb4307af06ff6cf3c27aced26c3c9/vividus-analytics-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-selenium/0.3.0/1d3d01dcf804b7e4c3ebd7f46dd4acfe047c8ee7/vividus-extension-selenium-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-selenium/0.3.0/cd94990cc3a750282b52432c7ad0e0c596c6dbfb/vividus-extension-selenium-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-soft-assert/0.3.0/c300b807f1ee4ea138896cadb864b69f71717c0f/vividus-soft-assert-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-soft-assert/0.3.0/5d77bc953386c2a2d1c39172641a909fc33aee50/vividus-soft-assert-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-util/0.3.0/adf3873afe1734caf22923064f56fa976794ca8f/vividus-util-0.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-util/0.3.0/1f34886be9f883a98f03cc16ff65b718299b6115/vividus-util-0.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j18-impl/2.14.0/c1ced37c092dc3bcdd8aa2b9c9b642ac1f5087e4/log4j-slf4j18-impl-2.14.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j18-impl/2.14.0/4166b0ea2d00acce2d68aacf30f6806ebce9024e/log4j-slf4j18-impl-2.14.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.browserup/browserup-proxy-core/2.1.2/d59c3b7fb60e6b25039b505df479acbd3cc4fa3c/browserup-proxy-core-2.1.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.browserup/browserup-proxy-core/2.1.2/df7d3bb01ac3bedf4dadeec3c80afc90bf36f55c/browserup-proxy-core-2.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.browserup/browserup-proxy-mitm/2.1.2/2d5b9813f8d79c68032af22efc3dba4e9578766c/browserup-proxy-mitm-2.1.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.browserup/browserup-proxy-mitm/2.1.2/301acad6f90f7e2c778241bb9f975926049315f0/browserup-proxy-mitm-2.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/2.0.0-alpha1/451dab5779038c7cce6485050cffb22cc002f5fd/jcl-over-slf4j-2.0.0-alpha1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/2.0.0-alpha1/a57d512a8169ba30c4718c78feca236a0be8d3/jcl-over-slf4j-2.0.0-alpha1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.0-alpha1/257c5b79ee314563ff5523ab35d8904d28ded8b6/jul-to-slf4j-2.0.0-alpha1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.0-alpha1/547b135ccc8da67d15f907ae69091eaf24604dc0/jul-to-slf4j-2.0.0-alpha1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/4.3.1/2b1bbffb93843e0c109034ddf0b92f0e17496b44/webdrivermanager-4.3.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/4.3.1/56ea884495b0265e86844b77dba57667dfdb0770/webdrivermanager-4.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path-assert/2.4.0/f1956e6b8ff6676f5f3b75359f7ad8b45e824ef0/json-path-assert-2.4.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path-assert/2.4.0/7f0af70880604c03cfcaf7e830d776b87ecf729d/json-path-assert-2.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-java-commons/2.13.7/e9430c8331049d8e24a0ff6ceaf527fca1760277/allure-java-commons-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-java-commons/2.13.7/98ef102b6c5a60f7ed8f9820d60381c6dfdcfacd/allure-java-commons-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/c43fc506196089da87a7bb36ec847b57072a818b/json-path-2.4.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/765a4401ceb2dc8d40553c2075eb80a8fa35c2ae/json-path-2.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/6cfaf5c02fb50bfdf7ea5e563955d3c229d7e154/logback-classic-1.1.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/9865cf6994f9ff13fce0bf93f2054ef6c65bb462/logback-classic-1.1.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.appium/java-client/7.1.0/439d79eb4b7b1d435ee26362f240179b206d1f61/java-client-7.1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.appium/java-client/7.1.0/760009634ad78d1957005d834eeab5961a3c1f26/java-client-7.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.0.3/f683c0f4f755cc54f91ebd3e22f62ef86f611a0f/httpclient5-5.0.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.0.3/c4bc772689d4bb2d4128c5e4966f765a8a76e904/httpclient5-5.0.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-generator/2.13.7/b6635a5478343452a72a9d9b10b5eee6dc97b7e9/allure-generator-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-generator/2.13.7/81ac50e32c9726d936113926b7d1b40ed89b0db2/allure-generator-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.allurefw/allure1-model/1.0/9427a7625b28ae92108752ec2845559904d480c3/allure1-model-1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.allurefw/allure1-model/1.0/cfd4d328364a7736448e42f088b53b5b8fb1c09d/allure1-model-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/xyz.rogfam/littleproxy/2.0.0-beta-5/d9ec8106497e441961446a58ebc85129137456d6/littleproxy-2.0.0-beta-5-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/xyz.rogfam/littleproxy/2.0.0-beta-5/51a78c6dd405116299750ce4f98120241a8eb92e/littleproxy-2.0.0-beta-5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/3.1.0/4d1368d001b8eee2e6558aa7c04875476756fb82/dnsjava-3.1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/3.1.0/89712a8345cd2ad81b18d417db409eb11176d900/dnsjava-3.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.0-alpha1/fa4c07f58c6a4dd6e636c5595fb79d3f4b91dc59/slf4j-api-2.0.0-alpha1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.0-alpha1/e979781e847d44d3618c4479d438956593b6b080/slf4j-api-2.0.0-alpha1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.0/20e40a90bf132427530d2831de15a695f59916aa/log4j-core-2.14.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.0/e257b0562453f73eabac1bc3181ba33e79d193ed/log4j-core-2.14.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.0/95803f2cbde0115144b017094434cac9871a3b12/log4j-api-2.14.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.0/23cdb2c6babad9b2b0dcf47c6a2c29d504e4c7a8/log4j-api-2.14.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.valfirst/jbehave-junit-runner/2.3.0/5112fe93603afbe552c5cfaabdd4f30809a576ff/jbehave-junit-runner-2.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.valfirst/jbehave-junit-runner/2.3.0/fe7a96289b2e27934d2d1068729a30772c0df3a9/jbehave-junit-runner-2.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/3.0.7/a11a4ad5d63aa64d8c2ce7850ca3df6a85a31e4a/groovy-3.0.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/3.0.7/f666103103eeae1e0f009066726e05740f98a25f/groovy-3.0.7-indy.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-spring/4.9.0-alpha/93172b83f4231706c9c0c5d0a6feadd579e12768/jbehave-spring-4.9.0-alpha-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-spring/4.9.0-alpha/753cf4a5ac9524e08743f8977ebff6acb70ec57d/jbehave-spring-4.9.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.3/4fecdb1390ee10da028c9294ecac00e076b242ef/spring-context-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.3/991cb0e9ef7a641d78d12ea18e213124fed6e787/spring-context-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/40dfd9fdef125e19136135e68d54af6d9b0cfbb8/commons-cli-1.4-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/c51c00206bb913cd8612b24abd9fa98ae89719b1/commons-cli-1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt-spring4/1.9.3/46aa59feddd06cd93cdda9664823ee2d7842e2b2/jasypt-spring4-1.9.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt-spring4/1.9.3/1759d8d81852c7c05451c9d1126f394122ed22ef/jasypt-spring4-1.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.javafaker/javafaker/1.0.2/2256a91208763d62c516601857022be16523552c/javafaker-1.0.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.javafaker/javafaker/1.0.2/be0ff271b1208416822db4438864df47f90af92f/javafaker-1.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-plugin-api/2.13.7/ea659b4ae9a7f964f1fe26dbcbc5aae0c092c04c/allure-plugin-api-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-plugin-api/2.13.7/fbb984d52caf5d910c4602f7ca74d9915610e9c6/allure-plugin-api-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.opencsv/opencsv/4.6/cbb2525ca01a104dbca6f012bded1a829abd875/opencsv-4.6-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.opencsv/opencsv/4.6/b7ce164e9e75be4b5eb42fd89c9c53ebecea6729/opencsv-4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.9/ae5c56310246339ac93e96c576243689173142d4/commons-text-1.9-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.9/ba6ac8c2807490944a0a27f6f8e68fb5ed2e80e2/commons-text-1.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-jsonunit/2.13.7/1b943273d1cc310b5cf8ddc30c14027ef01862c0/allure-jsonunit-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-jsonunit/2.13.7/358a4240064e3fe91f1c07ca65f4875255a62fa5/allure-jsonunit-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-utils/2.5/3731b713450a224bb4574d7061cdf0534a36063/clay-utils-2.5-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-utils/2.5/5bf2f8d338badd0ebe4f7a20290f7d64fc78a77a/clay-utils-2.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.11/24014867e470db3942db53b17a4902f4215d5ea8/commons-lang3-3.11-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.11/68e9a6adf7cf8eb7e9d31bbc554c7c75eeaac568/commons-lang3-3.11.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/6260e416ff273ee938b31b0a8e512a367b1ee500/commons-collections4-4.4-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/62ebe7544cb7164d87e0637a2a6a2bdc981395e8/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-properties/2.12.1/70fa071c2d0553f6b32cae12165b9ae9aa7fdc78/jackson-dataformat-properties-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-properties/2.12.1/d8498807b2cb8e69baf166b781749ee49489bddb/jackson-dataformat-properties-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.12.1/5f71a36e9e43b2f25d83cec3909608bc19a69426/jackson-datatype-jdk8-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.12.1/b503869b0ebf38a9a04beb9d7b0d08cf4c39497f/jackson-datatype-jdk8-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.12.1/27da0c4a967078f39f0961b0ed86f3626052f2b9/jackson-datatype-jsr310-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.12.1/a245631c624e9c38dd0563c1100243c2f0be8335/jackson-datatype-jsr310-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-model/2.13.7/9d61fb24953dd90e87157ec0119da6dcc98e016b/allure-model-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-model/2.13.7/300d0687f0b3375cce15fb14fc8e15cd99a5da0d/allure-model-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.12.1/ffb38a3cc03fcd48428fb436576bec960a7a5d75/jackson-dataformat-xml-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.12.1/5d950fc03e515a9ce0ecae0e7f6c85d91156bfeb/jackson-dataformat-xml-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.12.1/b6b74df4244c429e835310bc32a079aae8488097/jackson-dataformat-yaml-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.12.1/be6bf31ca69a28218daff18caef923ed6e1643e9/jackson-dataformat-yaml-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.12.1/b89603ea6acd4e7478652230c028d87d04b2a63f/jackson-module-jaxb-annotations-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.12.1/a486cbce4607b5ce329cbf5a400bed234afdcc23/jackson-module-jaxb-annotations-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.12.1/3871bc14a6eada48e906117fe6330c8e3958d8ad/jackson-databind-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.12.1/8a97e00e429c42f74757b0a8cd1d39dddd41524f/jackson-databind-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.12.1/9a7de2c68e9e884cba7df9671e77042d925f9436/jackson-core-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.12.1/7c5493930e439be6fcec80a9afd6516b8e5e8760/jackson-core-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.12.1/4f134564ef9bb2cdadfb48b0e7df9d4a5baa7495/jackson-annotations-2.12.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.12.1/aa079f822ddce5548018286d19ccb15c2fc202d7/jackson-annotations-2.12.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit/2.22.1/2d8cf1fb5f5371f49f301c9766e8d75ab0baabee/json-unit-2.22.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit/2.22.1/cf7dd6f806ad725f8a235b8be98b95debf1a59a1/json-unit-2.22.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit-core/2.22.1/e81a54d6bfa729e50ad1a2f8a162658379df807f/json-unit-core-2.22.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.javacrumbs.json-unit/json-unit-core/2.22.1/abea0f496c31b43db5f2fd1e0baf2eeec4a99222/json-unit-core-2.22.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/2.2/260c1224a39af35b0dbf85201647125f25f1b40d/hamcrest-core-2.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/2.2/3f2bd07716a31c395e2837254f37f21f0f0ab24b/hamcrest-core-2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/a0a13cfc629420efb587d954f982c4c6a100da25/hamcrest-2.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/1820c0968dba3a11a1b30669bb1f01978a91dedc/hamcrest-2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.0.0-alpha-1/68ed52a36053b31c50c3646b8ab9dbe99084f122/selenium-chrome-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.0.0-alpha-1/64f25b878c1c02e293abac973a2cc18fdc44492a/selenium-chrome-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.0.0-alpha-1/aa3ed42294cda229c0ffc551b1746e4f70dcf605/selenium-edge-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.0.0-alpha-1/619e3c72fcb4881d8f805302ee661b2e0cad9099/selenium-edge-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.0.0-alpha-1/aed2f1a7f61c88d1981317d997bc1a8c88627c77/selenium-firefox-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.0.0-alpha-1/3562376492b1949b2c61b25e659088656c62185/selenium-firefox-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.0.0-alpha-1/b7214eb4e231a9596773392ab044b6ab95a35651/selenium-ie-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.0.0-alpha-1/5b754e046a63cbc25ea2788e91959cb95a5285d/selenium-ie-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.0.0-alpha-1/c61c10647e36e4ca0269c2f68039bf23d763b2b3/selenium-safari-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.0.0-alpha-1/c7a9fb35453dbe48d9202da826b3575475a02950/selenium-safari-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/4.0.0-alpha-1/fa956e1a40f17edbb515edf1100b46e63c0aa5fc/selenium-opera-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/4.0.0-alpha-1/2dd553e50b9d0f447bc046a09a84f3d914a3840d/selenium-opera-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.0.0-alpha-1/ef9cfb3ced85af32979df55d3687f11cdd03af9c/selenium-support-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.0.0-alpha-1/91dd6fe9c4c424fe01a5aa4db7bae9c20bca07e7/selenium-support-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/e1245ab2be182ef8762d680da5861a5b13d9efd5/selenium-remote-driver-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/22b29396340cb549e665d685d981dfa8670d01e6/selenium-remote-driver-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1-jre/8ae9687f4800d716821aad9784bd4769e9e566a4/guava-30.1-jre-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/30.1-jre/d0c3ce2311c9e36e73228da25a6e99b2ab826f/guava-30.1-jre.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.98/6e79103a368894dd778d77723f538a3b17f05481/classgraph-4.8.98-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.98/ffd85ca16eba8d163b9bc5a6794e3df17d3fde2c/classgraph-4.8.98.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-jexl3/3.1/be3aad2709314cb62b8f3384cde47a0bcf3103d3/commons-jexl3-3.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-jexl3/3.1/a905d9655c30a9b7cfd1d11473b059c72283c888/commons-jexl3-3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.58.Final/ea5b0d5012d39a5abe427be5eb3281a729b16e8/netty-all-4.1.58.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.58.Final/f941117636594f6bf32daad7fe40807198dce29a/netty-all-4.1.58.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.13/f4f989a08a1ec3c84ad0aa110cb55590ccf2525/httpmime-4.5.13-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.13/efc110bad4a0d45cda7858e6beee1d8a8313da5a/httpmime-4.5.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.3/31efc0b47817fb337e6ac2b5640832d7a37ba47e/spring-web-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.3/9112880371d9ff888ee1248563df80eacbec7e14/spring-web-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-core/1.24.1/fd93c58b62971620e113aedc90c571f1a78bddc6/tika-core-1.24.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-core/1.24.1/703e65fb300d1425d4ad7b68c21c7795bb7a95c3/tika-core-1.24.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.5/5d84192c97050326b91f905cafce652d13756b25/aspectjrt-1.9.5-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.5/dc063f2557f6734ccb529b4c1d97132e4c8c739/aspectjrt-1.9.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.5/5246177594dea0360b8e28d419a75d64c9971e0b/aspectjweaver-1.9.5-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.5/1740dc9140103b796d1722668805fd4cf852780c/aspectjweaver-1.9.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.3/6e70a219a8e39ab228af52915e62f77baaca96d3/spring-jdbc-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.3/b457d582d4a5d86eedc28a7ac774a3d9ddf209aa/spring-jdbc-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.5.0/acb4745ac343906cd39f9b3776db0e56f251ae6e/checker-qual-3.5.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.5.0/2f50520c8abea66fbd8d26e481d3aef5c673b510/checker-qual-3.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.3/ee0546641b76deacf28f8eedd75758c95f984ce6/spring-aop-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.3/d7b9366fd446a135fa0833249d6468dd2dda5b1a/spring-aop-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.3/93b71f977902129ab195ccbbee738dd3d873bad3/spring-tx-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.3/db244edbb790ec24719e8eec635bd82b8ea24f62/spring-tx-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.3/23accaccd5dcb8820a3be7ca70e7c3e5d7803612/spring-beans-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.3/855f38fc8b85901681495ac6c6379051ee688cd5/spring-beans-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure.plugins/behaviors-plugin/2.13.7/170a32e6ffdad8068f815573bf49edce53eec039/behaviors-plugin-2.13.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.qameta.allure.plugins/behaviors-plugin/2.13.7/92c63611d3efedcdd10bdca9b18cf90ada11e1d5/behaviors-plugin-2.13.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.3/bf9995a32dbf83cd2452e3c319753343b408e075/spring-expression-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.3/c98f680074d15abee6130a22683f5f5d8acdfa15/spring-expression-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.3/503d7515d6c9fbe817b795c39970189472bfbc08/spring-core-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.3/ea35bf756a880c699768ae0750e1244017d6ae84/spring-core-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.3.1/e47264d065cecbc572ba99856fcc7da19a470ae3/jaxb-api-2.3.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.3.1/8531ad5ac454cc2deb9d4d32c40c4d7451939b5d/jaxb-api-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.9.0/871ce4ad91a17d76af2a4cf6c7d640d83807e98c/commons-pool2-2.9.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.9.0/58e9e8bbd29cf3e7861cb80c0a615770baffe840/commons-pool2-2.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.30/c762831bebf62255a0c0764a5aaee76e39399c41/freemarker-2.3.30-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.30/86d70d335c7821178f62b554aa3a4bc538a94f1a/freemarker-2.3.30.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.8.0/eec0d4cb359930f0a7c8a9c5147019ef2cd77757/commons-io-2.8.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.8.0/92999e26e6534606b5678014e66948286298a35c/commons-io-2.8.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt/1.9.3/9fe5c909addd00e1f3c27af8b64e22ee98922dcc/jasypt-1.9.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt/1.9.3/d99ef9540f51c617f2a293b460f025d2ee563dd/jasypt-1.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.4/950adf6dcd7361e3d1e544a6e13b818587f95d14/error_prone_annotations-2.3.4-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.4/dac170e4594de319655ffb62f41cbd6dbb5e601e/error_prone_annotations-2.3.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.27/62fc33bebe2f0c71864032c0549daf0a4a0dae2b/snakeyaml-1.27-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.27/1be1636a555afa20f10647ced5f44ce58053af0c/snakeyaml-1.27-android.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.27/62fc33bebe2f0c71864032c0549daf0a4a0dae2b/snakeyaml-1.27-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.27/359d62567480b07a679dc643f82fc926b100eed5/snakeyaml-1.27.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.mifmif/generex/1.0.2/d1f52c4efe0b20154faf35f8df5c08a234dc41db/generex-1.0.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.mifmif/generex/1.0.2/b378f873b4e8d7616c3d920e2132cb1c87679600/generex-1.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/1b9adea7bbe0b251818f42fde0bd2988d7e5f20a/gson-2.8.6-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.0.0-alpha-1/396b93f050e477d9ea154465581856239855a797/selenium-api-4.0.0-alpha-1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.0.0-alpha-1/9cb387573b8dd4673b7991066b7afd9e1cabd930/selenium-api-4.0.0-alpha-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/1.1.0/e8c47f583fab38dac572c4aaacd14616443da647/jarchivelib-1.1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/1.1.0/67d50e8656636aa652f745a5d9a437bccdf1346/jarchivelib-1.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.13.1/fb4cadc58f6dc7ecd85bf98d2efe689c683f1540/jsoup-1.13.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.13.1/f9577f3732bb7caa4fee8aba5053158f4010c118/jsoup-1.13.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.6/a8767cdd63c800f00df9c2fc5604a8f7648fe832/commons-validator-1.6-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.6/e989d1e87cdd60575df0765ed5bac65c905d7908/commons-validator-1.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.3/9d70af7c5982bd09c33efa97ac98cee6363ba0f0/commons-beanutils-1.9.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.3/c845703de334ddc6b4b3cd26835458cb1cba1f3d/commons-beanutils-1.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.13/226247b40160f2892fa4c7851b5b913d5d10912d/commons-codec-1.13-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.13/3f18e1aa31031d89db6f01ba05d501258ce69d2c/commons-codec-1.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jooq/joor-java-8/0.9.13/f707fa130739b50f361e7a22426a6134efc8ab80/joor-java-8-0.9.13-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.jooq/joor-java-8/0.9.13/1677bb842125415a40041e000200af8e76b2deff/joor-java-8-0.9.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.50.36/1d1204e92bbe022b8cf4b6b632b7f2fc61d40f27/flexmark-0.50.36-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.50.36/9b6a3169e240ee48800ea215ddf033ebfb221097/flexmark-0.50.36.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.3/27e4c7fd056bba511775d1aafbfa74028c90c1f/spring-jcl-5.3.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.3/29b29ac8940bfa8b07f7678e24018cee12f66706/spring-jcl-5.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.activation/javax.activation-api/1.2.0/1b4c6e77d35adab19794746d8ea753df30d77dca/javax.activation-api-1.2.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/javax.activation/javax.activation-api/1.2.0/85262acf3ca9816f9537ca47d5adeabaead7cb16/javax.activation-api-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/36c61f1b839bde5b284528cb76f6811efbe0f08b/json-smart-2.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/dk.brics.automaton/automaton/1.11-8/6bc89a2a9c9c5524aa275b572c0fd3699ff7a5be/automaton-1.11-8-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/dk.brics.automaton/automaton/1.11-8/6ebfa65eb431ff4b715a23be7a750cbc4cc96d0f/automaton-1.11-8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/15a62dbee75aadf62b7d35640533262d764b29d3/logback-core-1.1.7-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/7873092d39ef741575ca91378a6a21c388363ac8/logback-core-1.1.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.9.12/2dc1de67ae21b58ded53ee867d9dde123f8eccf3/byte-buddy-1.9.12-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.9.12/39050dbbd36862ea87eb9a64158854b04619ccd6/byte-buddy-1.9.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.14.0/775ec91f22324e24657fb832a9fc47b90738b25d/okhttp-3.14.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.14.0/c3a9efd10f26a802da2c47dbe54a8d4c44a6019f/okhttp-3.14.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.10/3413fb251018c11f0dd4a6681bd16a050cb26d05/cglib-3.2.10-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.10/24af53869d7f1de2a0d2cd3d59c35386ea5a2b1a/cglib-3.2.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.50.Final/5b2208ee9cae7975dee8fe1dacf1b5a65ee7b1a8/netty-codec-4.1.50.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.50.Final/cbcb646c9380c6cdc3f56603ae6418a11418ce0f/netty-codec-4.1.50.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/3102d5e0e3e6cdb601b42f7bdcbff13167a2226d/jzlib-1.1.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/c01428efa717624f7aabf4df319939dda9646b2d/jzlib-1.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.64/5c87199786c06e1a53adf16b1998386bad52da89/bcpkix-jdk15on-1.64-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.64/3dac163e20110817d850d17e0444852a6d7d0bd7/bcpkix-jdk15on-1.64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.64/2881bfaf2c15e9e64b62c2a143db90db7a0d6035/bcprov-jdk15on-1.64-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.64/1467dac1b787b5ad2a18201c0c281df69882259e/bcprov-jdk15on-1.64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c04c22a0f5a84e985bd04d2129638e590c1e5edc/dec-0.1.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c26a897ae0d524809eef1c786cc6183b4ddcc3b/dec-0.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.27.0-GA/e5dea2989ab81731501c670be0d1514512dbc13a/javassist-3.27.0-GA-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.27.0-GA/f63e6aa899e15eca8fdaa402a79af4c417252213/javassist-3.27.0-GA.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.0.2/b1a57939a57313308d0cfc8662a559b05dd8ded6/httpcore5-h2-5.0.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.0.2/7caeb2eebdfb7eca30e7f64e8138d977fc85ab80/httpcore5-h2-5.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.0.2/37823a81d6c5808a7a18ee50a40e39e1d532a760/httpcore5-5.0.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.0.2/ea298cd1ce1d860747149fbb5f6236300219f378/httpcore5-5.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.20/8388cb084d8934ee9a66a2f613f0ee5a98abfad7/commons-compress-1.20-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.20/b8df472b31e1f17c232d2ad78ceb1c84e00c641b/commons-compress-1.20.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.2.3/46b82aa59d0095a7d6f9eb29ded5574017b5a283/woodstox-core-6.2.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.2.3/f70ebf235f1df4c6999b6e0d4fb7c53436fef11a/woodstox-core-6.2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/8d0d447792449c247f739781838cd620687074b/stax2-api-4.2.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/a3f7325c52240418c2ba257b103c3c550e140c83/stax2-api-4.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.qatools.commons/properties/2.0.RC5/aed833bdb24c263fdacdda5e9b51163507fb4f63/properties-2.0.RC5-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/ru.qatools.commons/properties/2.0.RC5/9c90f0e4211aedcc39c18cd77b2268ddb6563bad/properties-2.0.RC5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.baev/jaxb-utils/1.0/f32ccd8b4d6632b712b8038e6b036f4c43a46889/jaxb-utils-1.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.github.baev/jaxb-utils/1.0/7463f66662f5bc4ea6e61de04bfccfafe6125d67/jaxb-utils-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util/0.50.36/624e36017ac4bf661be71cbd53ff42dcf01b9d76/flexmark-util-0.50.36-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util/0.50.36/ff0452a9ff56d164c9fa1b880562ed1fc8f93f57/flexmark-util-0.50.36.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c837e3903ff07b478041f761915d764b98e71e05/accessors-smart-1.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.17.2/331ecaeba2fd87c06a0766e8ebe718e1e294f27d/okio-1.17.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.17.2/78c7820b205002da4d2d137f6f312bd64b3d6049/okio-1.17.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.0/1e0eab03ec196dea229ea637e523b9c016e66b42/asm-7.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.0/d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912/asm-7.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.10.3/2a1eb94c55d39b6fe6be97e52c213fe10587b753/ant-1.10.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.10.3/88becdeb77cdd2457757b7268e1a10666c03d382/ant-1.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/1.8.1/3165d0f4fec8cd6836e7a3bc2986b3ff2bd101d/commons-digester-1.8.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/1.8.1/3dec9b9c7ea9342d4dbe8c38560080d85b44a015/commons-digester-1.8.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.50.Final/40c12cf806a017415b8905c842aa4622929487c5/netty-transport-4.1.50.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.50.Final/2e4f6b655933faca0deef8d234ac6725b598109a/netty-transport-4.1.50.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.50.Final/53366d1684db7965ebd65328760b061729924581/netty-buffer-4.1.50.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.50.Final/42b556977c572a376172a3270537ee22203c1a35/netty-buffer-4.1.50.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.50.Final/8b0df581b234b0bd784da20aad258518f30952a3/netty-resolver-4.1.50.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.50.Final/deb87b3c901142d73279a58e16867cf6f2b1c2e5/netty-resolver-4.1.50.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.50.Final/21571e0a20775bdfc200205634aa0f3bdeab871f/netty-common-4.1.50.Final-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.50.Final/d2059030b86733c52fd999e63db7300414b487fa/netty-common-4.1.50.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.barchart.udt/barchart-udt-bundle/2.3.0/dbb3b69c400494d28555f6c9c343c873cbe3a4bb/barchart-udt-bundle-2.3.0-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/com.barchart.udt/barchart-udt-bundle/2.3.0/3d1a29b2b08d20533ad08918411528dd1880515e/barchart-udt-bundle-2.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/8f7b9baa75556d2c03371c7e4b45b484683c7d28/jakarta.xml.bind-api-2.3.2-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.2/8d49996a4338670764d7ca4b85a1c4ccf7fe665d/jakarta.xml.bind-api-2.3.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.1/6fe481428613e57af220e17b9ebf3475fb27efb8/jakarta.activation-api-1.2.1-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.1/562a587face36ec7eff2db7f2fc95425c6602bc1/jakarta.activation-api-1.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.10.3/76eba2d6daf50f8af38da8b614c92958d4214341/ant-launcher-1.10.3-sources.jar" kind="lib" path="C:/Users/siarhei_izobau/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.10.3/9dd5189e7f561ca19833b4e3672720b9bc5cb2fe/ant-launcher-1.10.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>

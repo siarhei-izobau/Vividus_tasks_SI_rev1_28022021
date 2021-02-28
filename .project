@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>vividus-starter2</name>
+	<comment>Vividus test starter</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/baselines/boards_menu.png</name>
+			<type>1</type>
+			<location>C:/Users/siarhei_izobau/vividus-starter2/src/main/resources/baselines/boards_menu.png</location>
+		</link>
+		<link>
+			<name>src/main/resources/baselines/header.png</name>
+			<type>1</type>
+			<location>C:/Users/siarhei_izobau/vividus-starter2/src/main/resources/baselines/header.png</location>
+		</link>
+		<link>
+			<name>src/main/resources/baselines/member_menu.png</name>
+			<type>1</type>
+			<location>C:/Users/siarhei_izobau/vividus-starter2/src/main/resources/baselines/member_menu.png</location>
+		</link>
+		<link>
+			<name>src/main/resources/baselines/member_page.png</name>
+			<type>1</type>
+			<location>C:/Users/siarhei_izobau/vividus-starter2/src/main/resources/baselines/member_page.png</location>
+		</link>
+		<link>
+			<name>src/main/resources/baselines/side_menu.png</name>
+			<type>1</type>
+			<location>C:/Users/siarhei_izobau/vividus-starter2/src/main/resources/baselines/side_menu.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
